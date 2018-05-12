@@ -1,5 +1,8 @@
 _repo: The-Soul-of-a-Child_12283
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Björkman, Edwin
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '1677'
     url: http://www.gutenberg.org/2009/agents/1677
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12283#The-Soul-of-a-Child
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
